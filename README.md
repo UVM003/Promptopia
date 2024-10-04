@@ -2,6 +2,9 @@
 
 Welcome to **Promptopia**, an open-source **Next.js** application that empowers users to discover, create, and share AI prompts effortlessly. This app provides full **CRUD** functionality with dedicated pages such as **Home**, **Feed**, **Create Prompt**, and **Profile**, all secured with **NextAuth** for seamless authentication. Unleash your creativity in the digital realm with Promptopia.
 
+![Landing Page](./public/images/landing.png)
+
+
 ## Features
 
 - **Discover and Share AI Prompts**:  
